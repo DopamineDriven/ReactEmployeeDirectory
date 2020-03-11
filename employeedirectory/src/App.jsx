@@ -9,3 +9,5 @@ const App = () =>
     </Router>;
 
 export default App;
+// RANDOM USER GENERATOR API
+// https://randomuser.me/
